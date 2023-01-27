@@ -278,7 +278,7 @@ body {
   background-color: var(--navy-blue-bg-cl);
 }
 .footer-logo {
-  display: inline-block;
+  display: block;
   margin-bottom: 16px;
   font-family: var(--secondary-font);
   font-style: normal;

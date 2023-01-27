@@ -109,6 +109,9 @@ body {
   margin-right: 40px;
 }
 .contacts-link {
+  display: block;
+  padding-top: 24px;
+  padding-bottom: 24px;
   color: currentColor;
   font-style: normal;
 }

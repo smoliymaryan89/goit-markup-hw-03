@@ -259,7 +259,7 @@ body {
   row-gap: 48px;
 }
 .gallery-item {
-  flex-basis: calc((100% - 48px) / 3);
+  flex-basis: calc((100% - 24px * 2) / 3);
 }
 
 .gallery-content {
